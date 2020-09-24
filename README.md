@@ -1,2 +1,2 @@
-# Tema-OC-Hackintosh-Life
-Tema personalizzato Open Core Bootloader
+# Theme-OC-Hackintosh-Life
+Open Core Bootloader custom theme
