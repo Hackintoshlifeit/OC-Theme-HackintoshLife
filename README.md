@@ -13,7 +13,7 @@ Full HD Wallpapers
 ## Background OC Themes
 
 In this section you will find various Background divided by resolution.
-How to use them: Download your favorite according to the resolution of your monitor, unzip the ZIP and insert the .icns file in EFI / OC / Resourse / Image
+How to use them: Download your favorite according to the resolution of your monitor, unzip the ZIP and insert the .icns file in EFI / OC / Resources / Image
 
 Full HD Background
 
@@ -30,8 +30,12 @@ See [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/
 4k Background
 21:9 Background
 
+## Icons for OC Themes
+
+In this section you will find various icons set.
+How to use them: Download your favorite set and unzip the file, inser the files in EFI/OC/Resouces/Image
+
 ![infodp1](./Screenshot/1.png)
 
-![infodp1](./Screenshot/2.png)
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
