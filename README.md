@@ -10,12 +10,6 @@ Full HD Wallpapers
 ![Wall Viola](./Wallpaper/Wall%20Viola_.png)
 ![Wall Graffiti](./Wallpaper/Wallpaper%20Graffiti.png)
 
-2k Wallpapers
-4k Wallpapers
-![Wall Graffiti](./Wallpaper/Wallpaper%20Graffiti.png)
-21:9 Wallpapers
-
-
 ## Background OC Themes
 
 In this section you will find various Background divided by resolution.
