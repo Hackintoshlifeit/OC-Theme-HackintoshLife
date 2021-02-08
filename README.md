@@ -17,7 +17,7 @@ How to use them: Download your favorite according to the resolution of your moni
 
 Full HD Background
 
-![fullhdchitarra](./Screenshot/fullhdcgitarra.png)
+![fullhdchitarra](./Screenshot/fullhdchitarra.png)
 See [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Background/fullhdchitarra.zip)
 
 ![fullhdrocce](./Screenshot/fullhdrocce.png)
