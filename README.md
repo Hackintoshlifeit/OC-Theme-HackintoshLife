@@ -85,3 +85,17 @@ fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-Hackin
 
 4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
 
+Gigabyte Resources:
+
+![moderngigabytefullhd](./Resources/moderngigabytefullhd.png)
+
+hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_hdready.zip)
+
+fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_fullhd.zip)
+
+2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_2k.zip)
+
+4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_4k.zip)
+
+
+
