@@ -77,7 +77,7 @@ How to use them Download your favorite according to the resolution of your monit
 
 STANDARD
 
-SeeResourceshdready  Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20hdready.zip)
+SeeResourceshdready  Download](./Resources/Resources hdready.zip)
 SeeResourcesfhd      Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20fhd.zip)
 SeeResources2k       Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%202k.zip)
 SeeResources4k.      Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
