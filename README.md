@@ -78,6 +78,8 @@ How to use them Download your favorite according to the resolution of your monit
 STANDARD
 
 fhd      Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20fhd.zip)
+
 2k       Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%202k.zip)
+
 4k.      Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
 
