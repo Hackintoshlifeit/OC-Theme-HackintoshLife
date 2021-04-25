@@ -118,6 +118,16 @@ fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-Hackint
 4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_4k.zip)
 
 
+ACER Resource:
+
+![modernAcerfullhd](./Resources/modernAcerfullhd.png)
+
+hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Acer_hdready.zip)
+fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Acer_fullhd.zip)
+2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Acer_2k.zip)
+4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Acer_4k.zip)
+
+
 
 
 
