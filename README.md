@@ -4,10 +4,15 @@
 
 Wallpapers
 ![Wall pirati](./Screenshot/pirati.png)
+See HD ready [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Background/fullhdrocce.zip)
+See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/Fullhd/piratifullhd.png)
+See 2k [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Background/fullhdrocce.zip)
+See 4k [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Background/fullhdrocce.zip)
 ![Wall jurassic](./Screenshot/jurassic.png)
 ![Wall break](./Screenshot/break.png)
 ![Wall gradient](./Screenshot/gradient.png)
 ![Wall graffiti](./Screenshot/graffiti.png)
+![Wall rocce](./Screenshot/rocce.png)
 ![Wall hlrosso](./Screenshot/hlrosso.png)
 ![Wall hlverde](./Screenshot/hlverde.png)
 ![Wall hlviola](./Screenshot/hlviola.png)
