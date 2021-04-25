@@ -1,8 +1,7 @@
 ### HackintoshLife-Theme(for-OpenCore)-Wallpaper
 
-##WALLPAPERS
-
 Wallpapers
+
 ![Wall pirati](./Screenshot/pirati.png)
 See HD ready [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/hdready/piratihdready.png)
 See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/Fullhd/piratifullhd.png)
