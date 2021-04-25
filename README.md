@@ -74,7 +74,7 @@ Old
 ## BACKGROUND
 If you want personalized background, In this section you will find various divided by resolution.
 How to use them Download your favorite according to the resolution of your monitor, 
-unzip the ZIP and insert the .icns file in EFI/OC/Resources/Image
+unzip the ZIP and overwrite folder resource in EFI/OC
 
 ![setgui](./Screenshot/setgui.png)
 
@@ -99,6 +99,32 @@ fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-Hackin
 2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_2k.zip)
 
 4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_4k.zip)
+
+NUC intel Resources:
+
+![modernnucfullhd](./Resources/modernnucfullhd.png)
+
+hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_hdready.zip)
+
+fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_fullhd.zip)
+
+2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_2k.zip)
+
+4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_4k.zip)
+
+Asus Resources:
+
+![modernasusfullhd](./Resources/modernasusfullhd.png)
+
+hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_hdready.zip)
+
+fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_fullhd.zip)
+
+2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_2k.zip)
+
+4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_4k.zip)
+
+
 
 
 
