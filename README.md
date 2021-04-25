@@ -33,14 +33,31 @@ See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLif
 ![Wall hlviola](./Screenshot/hlviola.png)
 See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/Fullhd/Wall%20Viola_.png)
 
-## Background OC Themes
+## Iconset and Background for GUI OpenCore Default, Modern and Old
+
+STANDARD RESOUCES OF HACKINTOSH LIFE:
+
+Background Standard
+![backgroundpng](./Screenshot/backgroundpng.png)
+
+Default 
+![defaulticon](./Screenshot/defaulticon.png)
+![defaulticon](./Screenshot/defaulticon1.png)
+Modern
+![modernicon](./Screenshot/modernicon.png)
+![modernicon](./Screenshot/modernicon.png)
+Old
+![oldicon](./Screenshot/oldicon.png)
+![oldicon](./Screenshot/oldicon.png)
+
+
 
 In this section you will find various Background divided by resolution.
 How to use them Download your favorite according to the resolution of your monitor, unzip the ZIP and insert the .icns file in EFI / OC / Resources / Image
 
 Full HD Background
 
-![fullhdchitarra](./Screenshot/fullhdchitarra.png)
+![fullhdchitarra](./Screenshot/defaulticon.png)
 See [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Background/fullhdchitarra.zip)
 
 ![fullhdrocce](./Screenshot/fullhdrocce.png)
