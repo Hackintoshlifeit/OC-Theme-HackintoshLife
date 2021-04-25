@@ -74,3 +74,11 @@ Old
 ## BACKGROUND
 If you want personalized background, In this section you will find various divided by resolution.
 How to use them Download your favorite according to the resolution of your monitor, unzip the ZIP and insert the .icns file in EFI / OC / Resources / Image
+
+STANDARD
+
+SeeResourceshdready  Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20hdready.zip)
+SeeResourcesfhd      Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20fhd.zip)
+SeeResources2k       Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%202k.zip)
+SeeResources4k.      Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
+
