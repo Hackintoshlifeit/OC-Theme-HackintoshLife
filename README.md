@@ -3,9 +3,10 @@
 Wallpapers
 
 ![Wall pirati](./Screenshot/pirati.png)
-See HD ready [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/hdready/piratihdready.png)
-See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/Fullhd/piratifullhd.png)
-See 4k [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/4k/pirati4k.png)
+
+SeeHDready[Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/hdready/piratihdready.png)
+SeeFullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/Fullhd/piratifullhd.png)
+See4k     [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/4k/pirati4k.png)
 
 ![Wall jurassic](./Screenshot/jurassic.png)
 See HD ready [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/hdready/jurassichdready.png)
