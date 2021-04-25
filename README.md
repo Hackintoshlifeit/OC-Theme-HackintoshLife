@@ -50,6 +50,6 @@ Old
 ![oldicon](./Screenshot/oldicon.png)
 ![oldicon](./Screenshot/oldicon.png)
 
-## background
+## BACKGROUND
 If you want personalized background, In this section you will find various divided by resolution.
 How to use them Download your favorite according to the resolution of your monitor, unzip the ZIP and insert the .icns file in EFI / OC / Resources / Image
