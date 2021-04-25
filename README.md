@@ -77,9 +77,11 @@ How to use them Download your favorite according to the resolution of your monit
 
 STANDARD
 
-fhd      [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20fhd.zip)
+hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20hdready.zip)
 
-2k       [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%202k.zip)
+fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20fhd.zip)
 
-4k.      [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
+2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%202k.zip)
+
+4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
 
