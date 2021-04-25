@@ -1,6 +1,6 @@
 ### HackintoshLife-Theme(for-OpenCore)-Wallpaper
 
-##Walpapers
+##WALLPAPERS
 
 Wallpapers
 ![Wall pirati](./Screenshot/pirati.png)
