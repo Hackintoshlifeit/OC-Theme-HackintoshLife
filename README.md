@@ -65,12 +65,11 @@ Default
 Modern
 
 ![modernicon](./Screenshot/modernicon.png)
-![modernicon](./Screenshot/modernicon.png)
 
 Old
 
 ![oldicon](./Screenshot/oldicon.png)
-![oldicon](./Screenshot/oldicon.png)
+![oldicon](./Screenshot/oldicon1.png)
 
 ## BACKGROUND
 If you want personalized background, In this section you will find various divided by resolution.
