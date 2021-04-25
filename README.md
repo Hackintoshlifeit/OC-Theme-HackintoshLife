@@ -2,13 +2,15 @@
 
 ##Walpapers ( working in progress )
 
-Full HD Wallpapers
-![Wall Rocce](./Wallpaper/fullhdrocce.png)
-![Wall Blue](./Wallpaper/Wall%20Blue.png)
-![Wall Green](./Wallpaper/Wall%20Green.png)
-![Wall Red](./Wallpaper/Wall%20Red.png)
-![Wall Viola](./Wallpaper/Wall%20Viola_.png)
-![Wall Graffiti](./Wallpaper/Wallpaper%20Graffiti.png)
+Wallpapers
+![Wall pirati](./Screenshot/pirati.png)
+![Wall jurassic](./Screenshot/jurassic.png)
+![Wall break](./Screenshot/break.png)
+![Wall gradient](./Screenshot/gradient.png)
+![Wall graffiti](./Screenshot/graffiti.png)
+![Wall hlrosso](./Screenshot/hlrosso.png)
+![Wall hlverde](./Screenshot/hlverde.png)
+![Wall hlviola](./Screenshot/hlviola.png)
 
 ## Background OC Themes
 
