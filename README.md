@@ -103,11 +103,8 @@ NUC intel Resource:
 ![modernnucfullhd](./Resources/modernnucfullhd.png)
 
 hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_hdready.zip)
-
 fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_fullhd.zip)
-
 2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_2k.zip)
-
 4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_4k.zip)
 
 
@@ -116,11 +113,8 @@ ASUS Resource:
 ![modernasusfullhd](./Resources/modernasusfullhd.png)
 
 hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_hdready.zip)
-
 fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_fullhd.zip)
-
 2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_2k.zip)
-
 4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_4k.zip)
 
 
