@@ -6,6 +6,7 @@ Wallpapers
 See HD ready [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/hdready/piratihdready.png)
 See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/Fullhd/piratifullhd.png)
 See 4k [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/4k/pirati4k.png)
+
 ![Wall jurassic](./Screenshot/jurassic.png)
 See HD ready [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/hdready/jurassichdready.png)
 See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Wallpaper/Fullhd/jurassicfullhd.png)
@@ -37,17 +38,21 @@ See FullHD [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLif
 STANDARD RESOUCES OF HACKINTOSH LIFE:
 
 Background Standard
+
 ![backgroundpng](./Screenshot/backgroundpng.png)
 
 Default 
+
 ![defaulticon](./Screenshot/defaulticon.png)
 ![defaulticon](./Screenshot/defaulticon1.png)
 
 Modern
+
 ![modernicon](./Screenshot/modernicon.png)
 ![modernicon](./Screenshot/modernicon.png)
 
 Old
+
 ![oldicon](./Screenshot/oldicon.png)
 ![oldicon](./Screenshot/oldicon.png)
 
