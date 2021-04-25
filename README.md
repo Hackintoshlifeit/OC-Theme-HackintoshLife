@@ -80,49 +80,51 @@ unzip the ZIP and overwrite folder resource in EFI/OC
 
 STANDARD
 
-hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20hdready.zip)
+hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20hdready.zip)
 
-fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20fhd.zip)
+fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20fhd.zip)
 
-2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%202k.zip)
+2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%202k.zip)
 
-4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
+4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%204k.zip)
 
-Gigabyte Resources:
+GIGABYTE Resource:
 
 ![moderngigabytefullhd](./Resources/moderngigabytefullhd.png)
 
-hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_hdready.zip)
+hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_hdready.zip)
 
-fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_fullhd.zip)
+fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_fullhd.zip)
 
-2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_2k.zip)
+2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_2k.zip)
 
-4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_4k.zip)
+4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_4k.zip)
 
-NUC intel Resources:
+
+NUC intel Resource:
 
 ![modernnucfullhd](./Resources/modernnucfullhd.png)
 
-hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_hdready.zip)
+hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_hdready.zip)
 
-fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_fullhd.zip)
+fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_fullhd.zip)
 
-2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_2k.zip)
+2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_2k.zip)
 
-4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_4k.zip)
+4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_nuc_4k.zip)
 
-Asus Resources:
+
+ASUS Resource:
 
 ![modernasusfullhd](./Resources/modernasusfullhd.png)
 
-hdReady Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_hdready.zip)
+hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_hdready.zip)
 
-fhd     Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_fullhd.zip)
+fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_fullhd.zip)
 
-2k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_2k.zip)
+2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_2k.zip)
 
-4k      Resources [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_4k.zip)
+4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Asus_4k.zip)
 
 
 
