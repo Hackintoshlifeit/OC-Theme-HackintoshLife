@@ -94,18 +94,18 @@ Skull Resource:
 ![skull](./Resources/skull.png)
 
 hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_hdready.zip)
-fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_fullhd.zip)
+fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20SkullFullHD.zip)
 2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_2k.zip)
-4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_4k.zip)
+4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20Skull4k.zip)
 
 
 GIGABYTE Resource:
 
 ![moderngigabytefullhd](./Resources/moderngigabytefullhd.png)
 
-hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_hdready.zip)
+hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20SkullHD%20Ready.zip)
 fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_fullhd.zip)
-2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_2k.zip)
+2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20Skull2k.zip)
 4k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources_Gigabyte_4k.zip)
 
 
