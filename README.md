@@ -101,6 +101,15 @@ fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-Hackint
 
 GIGABYTE Resource:
 
+![moderndellresource](./Resources/dellresource.png)
+
+hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/dellhdready.zip)
+fhd     Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/dellfullhd.zip)
+2k      Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/dell2k.zip)
+
+
+GIGABYTE Resource:
+
 ![moderngigabytefullhd](./Resources/moderngigabytefullhd.png)
 
 hdReady Resource [Download](https://github.com/Hackintoshlifeit/OC-Theme-HackintoshLife/blob/master/Resources/Resources%20SkullHD%20Ready.zip)
